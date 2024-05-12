@@ -10,6 +10,6 @@ Technologies used in this project,
 2. Numpy and OpenCV for data cleaning
 3. Matplotlib & Seaborn for data visualization
 4. Sklearn for model building
-5. Jupyter notebook, visual studio code and pycharm as IDE
+5. Jupyter notebook and pycharm as IDE
 
 Performances of machine learning models including Logistic Regression, Random Forest, and Support Vector Machine are systematically evaluated and compared. Subsequently, the model demonstrating the most favorable performance characteristics is selected.
